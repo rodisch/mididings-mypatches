@@ -7,6 +7,6 @@ All data from the virtual input 'input_map_synths' is processed. The different s
 'Input_map_synths' is connected via aconnect to one USB-output of a MidiHUB (see http://blokas.io).
 
 The main-script imports several subscripts to do the data mapping:
-- CC to NRPN for the old ROland gear (M-SE1, M-OC2)
-- Note to drum mapping for the nocation Circuit
-- Some controller mapping and sustaint for the Volca FM
+- CC to NRPN for the old ROland gear (M-SE1, M-OC1)
+- Note to drum mapping for the Novation Circuit
+- Some controller mapping and sustain for the Volca FM
