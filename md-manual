@@ -1,2 +1,0 @@
-#!/bin/sh
-chromium-browser /usr/share/mididings-doc/index.html &
