@@ -11,3 +11,4 @@ The main-script imports several subscripts to do the data mapping:
 - Note to drum mapping for the Novation Circuit
 - Some mappings of common controllers and sustain for the Volca FM
 
+[Patchage] Screenshot Patchage.png
