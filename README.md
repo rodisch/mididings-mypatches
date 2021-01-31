@@ -10,5 +10,3 @@ The main-script imports several subscripts to do the data mapping:
 - CC to NRPN for the old Roland gear (M-SE1, M-OC1)
 - Note to drum mapping for the Novation Circuit
 - Some mappings of common controllers and sustain for the Volca FM
-
-![Patchage] 'Screenshot Patchage.png'
